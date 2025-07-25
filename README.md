@@ -45,19 +45,19 @@ We warmly welcome all developers and technology enthusiasts to participate in th
 ### Qualcomm
 
 
-| SoC | CPU | GPU | Antutu |
-| ----- | ----- | ----- | -------- |
-|     |     |     |        |
-|     |     |     |        |
-|     |     |     |        |
-|     |     |     |        |
+| SoC    | CPU                          | GPU             | Antutu  |
+| -------- | ------------------------------ | ----------------- | --------- |
+| sm8650 | Qualcomm Snapdragon 8 Gen 3  | Adreno (TM) 750 | 1272265 |
+| sm8550 | Qualcomm Snapdragon 8 Gen 2  | Adreno (TM) 740 | 991506  |
+| sm8475 | Qualcomm Snapdragon 8+ Gen 1 | Adreno (TM) 730 | 836893  |
+| sm8635 | Qualcomm Snapdragon 8s Gen 3 | Adreno (TM) 735 | 876754  |
 
 ### MediaTek
 
 
 | SoC    | CPU                | GPU                  | Antutu |
 | -------- | -------------------- | ---------------------- | -------- |
-| mt6765 | MediaTek Helio P35 | PowerVR Rogue GE8320 | 50372 |
+| mt6765 | MediaTek Helio P35 | PowerVR Rogue GE8320 | 50372  |
 |        |                    |                      |        |
 |        |                    |                      |        |
 |        |                    |                      |        |
