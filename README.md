@@ -55,7 +55,7 @@ We warmly welcome all developers and technology enthusiasts to participate in th
 
 | SoC    | CPU                | GPU                  | Antutu |
 | -------- | -------------------- | ---------------------- | -------- |
-| mt6765 | MediaTek Helio P35 | PowerVR Rogue GE8320 |        |
+| mt6765 | MediaTek Helio P35 | PowerVR Rogue GE8320 | 50372 |
 |        |                    |                      |        |
 |        |                    |                      |        |
 |        |                    |                      |        |
