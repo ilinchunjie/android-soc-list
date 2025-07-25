@@ -40,6 +40,8 @@ We warmly welcome all developers and technology enthusiasts to participate in th
 
 ## 📊 Android SoC Specification List
 
+> **Note**: All Antutu benchmark scores listed in the tables are based on **Antutu V10** unless otherwise specified.
+
 ### Qualcomm
 
 
